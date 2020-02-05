@@ -1,4 +1,4 @@
-# 字符编码（Character Encoding）
+# 字符编码
 
 **什么是编码？**
 
